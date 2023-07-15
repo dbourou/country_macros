@@ -10,6 +10,8 @@ To run it, download the files and the script (developing_countries_compare_pub.p
 
 Running the code will save plots of about 100 different variables that you can then inspect to compare the status of these countries
 
+You can also download different data from world bank and run the code on those, but you must make sure that the variables available for all countries are the same
+
 Enjoy!
 
 Dimitra Bourou, 15/7/2023
